@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 248887228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dc0a110572133fe8c489d58aca445921
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f267fd2d8bcb1179236b6179ac5313bc
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/UI/ui_zhuangbeikuang_xuanzhong.png
+- Assets/Resources/UI/icon_cailiao_shengtie.png
+- Assets/Resources/UI/ui_youbiaoqian.png
+- Assets/Resources/UI/ui_beijing_ditu_zuoshangjiao.png
+- Assets/Resources/UI/icon_danyao_tiejian_yumao.png
+- Assets/Resources/UI/ui_com_anniu_shanchu_cha.png
+- Assets/Resources/UI/ui_xiahua_xian.png
+- Assets/Resources/UI/icon_wuqi_tiepigong.png
+- Assets/Resources/UI/ui_com_anniu_jindutiao.png
+- Assets/Resources/UI/icon_cailiao_yumao.png
+- Assets/Resources/UI/icon_cailiao_jiaodai.png
+- Assets/Resources/UI/icon_cailiao_mutou.png
+- Assets/Resources/UI/icon_cailiao_masheng.png
+- Assets/Resources/UI/ui_zhuangbeikuang_di.png
+- Assets/Resources/UI/icon_wuqi_dao.png
+- Assets/Resources/UI/ui_com_fenge_toumingdi.png
+- Assets/Resources/UI/ui_zhuangbeikuang.png
+Dependencies: []
